@@ -1,7 +1,7 @@
 # Driving-School-Database-Management
 Whithin the scope of the NF92 (Automatic Data Processing) course @ Université de Technologie de Compiègne, I had to manage a driving school's database by programming a website. 
 
-The goal of this project/practical work is to create a website that manages data relating to the students and the timetable of a driving school. The relationship between the website and the database is made with PHP and the interface is written in HTML and CSS. The database is managed by MySQL and we used PHPMyAdmin to construct it. 
+The goal of this project/practical work is to create a website that manages data relating to the students and the timetable of a driving school. The relationship between the website and the database is made with PHP and the interface is written in HTML and CSS. The database is managed by MySQL and PHPMyAdmin has been used to construct it. 
   
  Features of the website :
   - Add a student
