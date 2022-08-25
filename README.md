@@ -16,6 +16,6 @@ The goal of this project/practical work is to create a website that manages data
 
 [remarks] :
 
-  - all in-file comments and report are in french.
+  - all in-file comments.
   - The grade given by teachers for this work : 20/20
 
