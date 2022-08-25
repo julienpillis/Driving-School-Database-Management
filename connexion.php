@@ -6,10 +6,10 @@
     <?php
       date_default_timezone_set('Europe/Paris');
       $date = date("Y-m-d");
-      $dbhost = 'tuxa.sme.utc';
-      $dbuser = 'nf92a065';
-      $dbpass = 'enA5IqZP';
-      $dbname = 'nf92a065';
+      $dbhost = 'xxxxxxxx'; # values are not given for security purposes
+      $dbuser = 'xxxxxxxx';
+      $dbpass = 'xxxxxxxx';
+      $dbname = 'xxxxxxxx';
     ?>
   </body>
 </html>
