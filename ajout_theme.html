@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ajout_theme</title>
+    <link type='text/css' href='autoecole.css' rel='stylesheet'>
+  </head>
+  <body>
+    <FORM  METHOD='POST'  ACTION="ajouter_theme.php">
+      <h1>Ajout d'un thème</h1>
+      <table>
+        <tr><td><label for='tname'>Nom du thème : </label></td><td><INPUT TYPE='text' id='tname' NAME="tname" required placeholder='Premiers secours'></td></tr>
+        <tr><td><label for ='desc'>Descriptif : </label></td><td><textarea NAME="descriptif" id='desc'rows='5' cols='20' placeholder='Description du thème...'></textarea></td></tr>
+        <tr><td><INPUT VALUE="Enregistrer" TYPE="SUBMIT"></td><td><INPUT VALUE="Effacer" TYPE="RESET"></td></tr>
+      </table>
+    </FORM>
+  </body>
+</html>
