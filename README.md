@@ -18,6 +18,6 @@ The goal of this project/practical work is to create a website that manages data
 
   - all in-file comments.
   - The grade given by teachers for this work : 20/20
-  
-![Screenshot of the website](url "Title")
+
+![Screenshot_website](https://user-images.githubusercontent.com/73343827/186662350-60d0c535-330e-40ce-b4bc-0fb653347f4d.png)
 
