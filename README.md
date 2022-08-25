@@ -3,7 +3,7 @@ Whithin the scope of the NF92 (Automatic Data Processing) course @ Université d
 
 The goal of this project/practical work is to create a website that manages data relating to the students and the timetable of a driving school. The relationship between the website and the database is made with PHP and the interface is written in HTML and CSS. The database is managed by MySQL and PHPMyAdmin has been used to construct it. 
   
- <ins>Features of the website</ins> :
+ <ins>Features of the website :</ins>
   - Add a student
   - View student's information
   - Enroll a studen to a lesson
@@ -14,12 +14,12 @@ The goal of this project/practical work is to create a website that manages data
   - Add a lesson
   - save students' notes after a lesson
 
-<ins>Remarks</ins>:
+<ins>Remarks :</ins>
 
   - all in-file comments.
   - The grade given by teachers for this work : 20/20
 
-<ins>Overview</ins>
+<ins>Overview :</ins>
 
 ![Screenshot_website](https://user-images.githubusercontent.com/73343827/186662350-60d0c535-330e-40ce-b4bc-0fb653347f4d.png)
 
